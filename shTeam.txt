@@ -1,4 +1,4 @@
 Ref1or;1146525271374168184/e27b08b842c3c3f37f9011c176a3f42b;Developer;Sypher's lead developerттDiscord: sypherhack;none
-Krull;985918210736005180/b47bf4446488047632c1c43da75b1b03;Legend;Cool personттDiscord: cherryhack;none
+Krull;1143267193610571807/25fea251b7257bebb9d309cfba3948b3;Legend;Cool personттDiscord: cherryhack;none
 Fyr1ck;926410466006302742/d96c7d107750798644ba03cce1a4c423;Tester;The main beta testerттDiscord: tets2;none
 Aura;985918210736005180/b47bf4446488047632c1c43da75b1b03;Tester;Beta testerттDiscord: sypherhackk;none
