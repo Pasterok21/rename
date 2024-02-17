@@ -13,3 +13,5 @@ Xlophik:fbgroup
 1223_Kirill_1231:bkgroup
 anton456k:dev
 MilkyWay1:bkgroup
+WillyW0nka:tester
+W0nka:tester
