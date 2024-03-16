@@ -1,7 +1,7 @@
 roky:tester
 Refior2:tester
 TheCampingRusher:tester
-Fastukom:dev
+Fastukom:bkgroup
 BlackFase:fbgroup
 Halmet:bkgroup
 p1zdab0l123:fbgroup
@@ -12,10 +12,10 @@ Redactor:dev
 Xlophik:fbgroup
 1223_Kirill_1231:bkgroup
 anton456k:dev
-MilkyWay1:dev
+MilkyWay1:bkgroup
 WillyW0nka:tester
 W0nka:tester
-fyrick:dev
+fyrick:bkgroup
 fyr1ck:dev
 MrZak34:tester
 TbMa_cBeTa:bkgroup
