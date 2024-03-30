@@ -1,19 +1,14 @@
-ChangeLog [recode v1.4b2212]
+ChangeLog [v3.0]
 
-[+] AutoBuy (funTime)
-[+] Speed -> FunTime (Grim)
-[+] TargetHud -> NurikZapen -> Mini
-[+] Wurst easter egg
-[+] German translation
-[+] SwingAnimations -> Moooooore modes
-[+] NameTags, TargetHud -> FunTime (HP Bypass)
-[+] NameTags -> OnlyHands
-[/] Fixed string settings saving
-[/] Fixed Aura -> OnlyWeapon with MoveFix
-[/] Optimized hud elements
-[/] Improved NoSlow -> FunTime (Grim)
-[/] Fixed BoatFly -> allowShift
-[/] Fixed Aura interact on Grim
-[*] Updated Grim starter config
-
-
+[*] улучшена HitAura
+[*] улучшен Velocity
+[/] исправлен WaterMark
+[+] добавил ChatColor в ChatUtils
+[*] улучшил визуальную состовляющую
+[*] обновлена ClickGui 
+[*] обвновлён RPC
+[+] новый мод в AutoWalk
+[/] исправлен XRay
+[*] обновлён Nametags
+[*] обновлён FgHelper
+[/] оптимизирован AutoCrystal
