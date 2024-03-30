@@ -12,3 +12,5 @@ ChangeLog [v3.0]
 [*] обновлён Nametags
 [*] обновлён FgHelper
 [/] оптимизирован AutoCrystal
+[+] добавил авто свап BindSwap
+[+] новые спиды под грим 
